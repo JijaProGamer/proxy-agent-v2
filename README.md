@@ -35,7 +35,7 @@ Installation
 Install with `npm`:
 
 ``` bash
-$ npm install proxy-agent
+$ npm install proxy-agent-v2
 ```
 
 
